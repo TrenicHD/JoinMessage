@@ -1,0 +1,6 @@
+name: JoinMessage
+author: TrenicHD
+api: [3.0.0, 4.0.0]
+main: TrenicHD\Main
+description: JoinMessage by TrenicHD
+version: 1.0.0
